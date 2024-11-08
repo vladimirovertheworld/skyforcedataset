@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-SSH_KEY_PATH="/mnt/c/Users/user/.ssh/id_ed25519"
+SSH_KEY_PATH="/home/vovkes/.ssh/id_rsa.pub"
 REPO_URL="git@github.com:vladimirovertheworld/skyforcedataset.git"
 COMMIT_MESSAGE="Initial commit"
 
