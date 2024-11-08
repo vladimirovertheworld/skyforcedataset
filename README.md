@@ -1,7 +1,5 @@
 # deploy_readme.ps1
 
-# Define the README content
-$readmeContent = @"
 # Automated Gameplay Frame Annotation with Rust
 
 This repository contains an advanced concurrent image processing system in Rust that automates the annotation of gameplay frames for machine learning. It uses a pre-trained object detection model (e.g., YOLO) to identify and classify key elements in arcade-style games like "Sky Fighter" and outputs labels in YOLO format, ideal for training computer vision models.
