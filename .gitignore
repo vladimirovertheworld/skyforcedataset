@@ -1,0 +1,29 @@
+/target
+/screenshots
+# Ignore Cargo files
+/target/
+/Cargo.lock
+
+# Output files from building the project
+**/*.rs.bk
+**/*.rlib
+**/*.dSYM
+
+# Dependency files and logs
+/.idea/
+/.vscode/
+/*.log
+
+# Rust and IDE specific
+*.rs.bk
+*.swp
+*.swo
+
+# Node modules for any JavaScript dependencies
+node_modules/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
