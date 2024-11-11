@@ -1,4 +1,3 @@
-/target
 /screenshots
 # Ignore Cargo files
 /target/
@@ -27,3 +26,5 @@ node_modules/
 
 # Windows files
 Thumbs.db
+*~
+*.ps1
