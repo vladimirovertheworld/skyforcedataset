@@ -1,8 +1,8 @@
-#  Dataset
+#  Automating Gameplay Frame Annotation Using Rust and Object Detection
 
 This repository contains tools for generating a dataset from gameplay screenshots of the game *Sky Fighter*. The goal is to process and annotate gameplay screenshots for machine learning tasks, particularly object detection. This dataset includes annotated images in YOLO format, identifying key objects like player ships, enemies, bullets, power-ups, and obstacles.
 
-Article with more details and implementation aproache
+Article with more details and implementation aproaches
 https://www.linkedin.com/pulse/automating-gameplay-frame-annotation-using-rust-object-ovcharov-cwshf
 
 ## Project Structure
